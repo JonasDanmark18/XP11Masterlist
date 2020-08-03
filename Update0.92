@@ -2,19 +2,19 @@ Hello, thanks for coming by this [WIP] post, which contains a variety of differe
 Table of content
 1. Aircraft.
 2. Scenery
-3. Plugins
-4. Scenery enhancements
+3. Plugins and scripts
+4. Scenery enhancements 
 5. Honorable mentions
 6. Information
 A list I’ve compiled, featuring a lot of freeware aircraft, scenery, airports, plugins, etc. for X-Plane 11. The aircraft section is not really organized since there isn't really only 1 creator for some of them, but I think it's okay (hopefully).
 
 1. Aircrafts
-Zibo 737-800 - here
-Probably the most fan-favorite aircraft out here and is essential in your fleet. It contains highly accurate flight models and functions you are not seeing on the default X-Plane 11 737-800.
+ Zibo 737-800 - here
+ Probably the most fan-favorite aircraft out here and is essential in your fleet. It contains highly accurate flight models and functions you are not seeing on the default X-Plane 11 737-800.
 Ultimate 737-700U - here
 Be sure to check out Zibo's Google Drive with newer versions of the 737-700U and 737-900U here.
 Ultimate 737-900U - here
-Be sure to check out Zibo's Google Drive with newer versions of the 737-700U and 737-900U here.
+Be sure to check out Zibo's Google Drive with newer versions of the 737-700U and 737-900U here. 
 Let L-410 Turbolet - here
 Both has a passenger and cargo version.
 Eclipse 550 - here
@@ -75,52 +75,44 @@ This section includes airports, meshes, autogen, forests, etc. For airports, I w
 SAM Suite - here
 Not many knows of the SAM Suite, which is an absolutely amazing program, that combines the SAM programs. It both includes better trees, gateways (paid), and even seasons for your world!
 Masters list of libraries for XP11
-https://forums.x-plane.org/index.php?/forums/topic/90776-master-list-of-libraries/ Most of these, you’ll need for building a variety of different airports around the world
-
+https://forums.x-plane.org/index.php?/forums/topic/90776-master-list-of-libraries/  Most of these, you’ll need for building a variety of different airports around the world.
 MisterX6
 MisterX6 has made a lot of great airports and sceneries for XP11 and you can find some of them below. You can find more here: MisterX6's content.
-KSFO
-KSFO San Francisco International Airport and City
+KSFO - here
 
-Japan Pro
-Japan Pro
+Japan Pro - here
 
-HD-Forests
-HD Forests
+HD-Forests - here
 
-KPDX
-KPDX Portland International Airport
+KPDX - here
 
-KCUB
-KCUB - Jim Hamilton-L.B. Owens Airport
+KCUB - here
 
-KSAN
-KSAN - San Diego International
+KSAN - here
 
-3. Plugins and scripts.
+Ortho4XP - here
+
+3. Plugins and scripts
 FlyWithLua NG - here
-Probably one of the most essential addons for XP11 when using scripts.
-
+Probably one of the most essential addons for XP11 when using scripts. 
 BetterPushback - here
-
+BetterPusback is a pushback plugin, so it makes it easier to pushback your aircraft from the stand. Also the creator of X-RAAS2, OpenFMC, Librain and more.
 AviTab - here
-
 Landing Speed Plugin - here
 Tells you the landing speed and other neat information about your landing.
 X-RAAS 2.1 - here
-RAAS is for Runway Awareness and Advisory System, which will tell you things like what runway you are in front of and other things you need to aware of to the runways.
+RAAS is for Runway Awareness and Advisory System, which will tell you things like what runway you are in front of and other things you need to aware of to the runways. The repository can be found here.
 3jFPS - here
-This can maybe help you get a little more FPS in the game by disabling or lowering things you may not notice. Use at own precaution. 
-
+This can maybe help you get a little more FPS in the game by disabling or lowering things you may not notice. Use at own precaution.  
 HeadShake - here
 HeadShake is a must if you want to have the most realism out of your simulator. G-effects and other cool effects that enhance the realism, so it looks like your head is shaking :-).
+ 
+Vivid Sky
+https://forums.x-plane.org/index.php?/files/file/48315-vivid-sky/ (Biased, my favorite, but there is a lot of other options, I’ll list below).
+FSEnhancer
+https://forums.x-plane.org/index.php?/files/file/41411-fse/
 
-4. Scenery enhancements
-This section contains addons that enhance the scenery in the likes of better clouds, water, etc.
-Vivid Sky - here
-Better clouds and comes with optional tweaks for water and scattering.
-
-FSEnhancer - here
+4. Else
 
 5. Honorable mentions
 https://forums.x-plane.org/index.php?/profile/757034-mgouge/content/&type=downloads_file A lot of updated versions for a lot of aircraft, including revieres aircrafts.
@@ -130,4 +122,4 @@ You can use this on your Discord server if you like, but please either refer to 
 Thanks for scrolling by and reading, I really appreciate it. Also, I am a part of a X-Plane 11 community Discord I would like to promote since I think we have a really cozy place to talk and learn from each other. You can join here. Also if you are a developer, check out this Discord! here.
 Also if you have any additional add-ons for the list, please use my feedback form here. I appreciate feedback and I also really appreciate others that want to contribute :-).
 The different version of this master list can be found here.
-This is currently update 0.91, since we are still missing some text here and there, but that will be there in update 1.0. Thanks!
+This is currently update 0.92, since we are still missing some text here and there, but that will be there in update 1.0. Thanks!
